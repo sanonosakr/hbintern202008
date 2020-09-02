@@ -1,0 +1,7 @@
+diff a/index.php b/index.php	(rejected hunks)
+@@ -0,4 +0,5 @@
+   <html>
+     <body>
++      <?php echo "Hello World! php" ?>
+     </body>
+   </html>
