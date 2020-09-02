@@ -1,5 +1,6 @@
   <html>
-    <body>
+    <body>u
+    <h1>自己紹介</h1>;
       <?php echo "Hello World! php" ?>
       <ul>
         <li>自己紹介</li>
@@ -9,6 +10,7 @@
         <li>高梨。</li>
       </ul>
       <ul>
+      <h2>私はインターンでお世話になっております安田です。</h2>;
       </ul>
 
     </body>
